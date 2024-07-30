@@ -1,22 +1,20 @@
 [
   {
-    "name": "(POST) SIGN UP to Snaptime",
-    "url": "http://na2ru2.me:6308/users/sign-up",
+    "name": "Snaptime Swagger",
+    "url": "http://na2ru2.me:6308/swagger-ui/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/na2ru2.me.ico",
-    "slug": "post-sign-up-to-snaptime",
-    "status": "down",
-    "uptime": "14.97%",
-    "uptimeDay": "14.97%",
-    "uptimeWeek": "14.97%",
-    "uptimeMonth": "14.97%",
-    "uptimeYear": "14.97%",
-    "time": 567,
-    "timeDay": 567,
-    "timeWeek": 567,
-    "timeMonth": 567,
-    "timeYear": 567,
-    "dailyMinutesDown": {
-      "2024-07-30": 0
-    }
+    "slug": "snaptime-swagger",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 507,
+    "timeDay": 507,
+    "timeWeek": 507,
+    "timeMonth": 507,
+    "timeYear": 507,
+    "dailyMinutesDown": {}
   }
 ]
