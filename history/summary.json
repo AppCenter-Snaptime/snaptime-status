@@ -4,7 +4,7 @@
     "url": "http://na2ru2.me:6308/swagger-ui/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/na2ru2.me.ico",
     "slug": "snaptime-swagger",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 725,
     "timeMonth": 831,
     "timeYear": 804,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-24": 0
+    }
   }
 ]
